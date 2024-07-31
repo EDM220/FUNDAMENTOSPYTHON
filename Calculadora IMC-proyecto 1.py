@@ -70,7 +70,6 @@ else:
     print('tiene obesidad tipo 3\n\n') 
 
 
-
 print('Gracias por usar esta calculadora!')
 
   
