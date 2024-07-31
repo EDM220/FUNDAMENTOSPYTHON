@@ -55,6 +55,7 @@ print('\nDeacuerdo con los datos proporcionados:')
 print(f'{nombre} {apellido1} {apellido2}:tiene {edad} años,su peso y estatura son de {peso:.2f} kg y {estatura} metros.')
 print(f'Su IMC de {imc:.2f} calculada indica que',end = ' ')
 
+
 if (imc < 18.5):
     print('esta bajo de peso\n\n')
 elif (18.5 <= imc <24.9 ):
@@ -68,7 +69,10 @@ elif (35 <= imc < 39.9):
 else:
     print('tiene obesidad tipo 3\n\n') 
 
-   
+print('Gracias por usar esta calculadora!')
+
+  
        
     
+
 # isalpha()--isalnum() 
