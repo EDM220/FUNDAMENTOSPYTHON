@@ -42,7 +42,7 @@
 # texto_compuesto = letra + texto[1] #Concatenación
 # print(texto_compuesto)
 
-###########################################################
+############################################################
 
 # slicing o substringing
 # texto = 'Python'
