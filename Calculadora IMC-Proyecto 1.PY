@@ -68,7 +68,7 @@ elif (35 <= imc < 39.9):
     print('tiene Obesidad 2\n\n')
 else:
     print('tiene obesidad tipo 3\n\n') 
-    
+
 
 print('Gracias por usar esta calculadora!')
 
@@ -76,4 +76,4 @@ print('Gracias por usar esta calculadora!')
        
     
 
-# isalpha()--isalnum() 
+
