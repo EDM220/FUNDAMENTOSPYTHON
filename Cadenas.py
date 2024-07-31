@@ -44,10 +44,44 @@
 
 ###########################################################
 
+# slicing o substringing
+# texto = 'Python'
+# print(texto[0:3])
+# print(texto[0:-3])
+# print(texto[0:-2])
+# print(texto[2:]) # Si queremos mostrar índices desde un determinado punto hasta el final
+# print(texto[:3]) # Lo mismo se puede hacer si se quiere imprimir desde el principio hasta un determinado punto
 
+# print(texto[-3::-1])
+# print(texto[::-1])
+# print(texto[::1])
 
+# print(texto[1:50])
+# print(texto[2:2]) # aquí no se imprime nada porque tiene más preponderancia el último de los índices que es donde comienza 
 
+#######################################################################
 
+# Cadenas y formatos
+
+texto = 'Hola mundo! Buenastardes'
+print(texto.lower())
+print(texto.upper())
+print(texto.capitalize())
+print(texto.title())
+print(texto.swapcase())
+
+print(texto) # La variable sigue teniendo el mismo valor que se le había asignado a menos que se le
+             #cambie como por ejemplo texto = texto.upper() antes de print(texto)
+
+print('{} + {} = {}'.format(2,3,2+3))
+print('{} + {} = {}'.format('Hola','mundo','Hola mundo'))
+print('{:.3f} + {:.4f} = {}'.format(2,3,2+3))
+print('{1} + {0} = {2}'.format(2,3,2+3))
+print('{2} + {0} = {1}'.format('Hola','mundo','Hola mundo'))
+print('{:d} = {:b} =  {:0} = {:x}'.format(15,15,15,15))
+
+# Para corroborrar los demás métodos que Python tiene instalados, escribir en la terminal(ventana de abajo)
+#python para acceder a la terminal y después de esto dir(str)
 
 
 

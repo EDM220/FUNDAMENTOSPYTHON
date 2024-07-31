@@ -10,7 +10,7 @@
 
 # pi= 3.141592
 # r = 5
-# print(f'El radio de un circulo es {r} y el área de un circulo es {pi * r**2 : .2f}')
+#print(f'El radio de un circulo es {r} y el área de un circulo es {pi * r**2 : .2f}')
 
 #Impresión de caracteres especiales
 # print('La letra beta es: \n\t \u03b2')
