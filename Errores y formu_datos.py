@@ -40,7 +40,7 @@ apellido = input('Introduce tu apellido: ')
 edad = int(input('Cúal es tu edad:  '))
 correo = input('Introduce tu correo electrónico: ')
 telefono = input('Introduce tu teléfono: ') # se deja sin casting (int) porque se perdería el cero
-# si el número del teléfono empezara con un cero.
+# si el número del teléfono empezara con un cero. 
 
 print('Nombre: %s'%(nombre))
 print('Nombre: ' + nombre)
