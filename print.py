@@ -15,7 +15,7 @@
 #Impresión de caracteres especiales
 # print('La letra beta es: \n\t \u03b2')
 
-# Caracteres de escape
+# Caracteres de escape 
 print('Hola mundo', end = ' ')
 print('otra vez', end = '\t')
 print('y otra vez')
