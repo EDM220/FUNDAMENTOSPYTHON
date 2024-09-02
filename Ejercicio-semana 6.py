@@ -9,4 +9,5 @@ for i in range (2,100):
             continue
 
     if primo == True:
-        print(i, end = ' ')        
+        print(i, end = ' ')    
+        
