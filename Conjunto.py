@@ -49,5 +49,6 @@ print(vocales1 & vocales2) # imprime un conjunto vacío porque todos son diferen
 
 # Ahora para imprimir la diferencia simétrica (elementos que estan en un conjunto u otro) 
 # pero no en ambos
-print(vocales1 ^ vocales2)# no va a imprimir la U porque esta en ambos                       
+print(vocales1 ^ vocales2)# no va a imprimir la U porque esta en ambos  
+                   
 
