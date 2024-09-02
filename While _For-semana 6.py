@@ -23,6 +23,8 @@ for i in range(3):
     print(i,end=' ')
 print('\n')
 
+
+
 # for i in ['Laura','Sofia','Verónica','Yolanda','Cristina','Claudia']:
 #     print(i)
 # print('\n')    
@@ -32,3 +34,4 @@ print('\n')
 #         pass
 #     else:
 #         print(i,end='')
+

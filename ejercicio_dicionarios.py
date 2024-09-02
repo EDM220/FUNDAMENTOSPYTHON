@@ -19,3 +19,4 @@ for palabra in palabras:
         respuesta = respuesta + palabra + ' '
 
 print(respuesta)
+
