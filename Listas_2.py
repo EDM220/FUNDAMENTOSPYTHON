@@ -87,6 +87,7 @@ print(vocales2,vocales3) # En vocales3 se imprime completa porque es otro objeto
 # Ahora imprimir el "id 3" de vocales3
 print(id(vocales1[2]),id(vocales3[3])) # se imprime el mismo "id" de vocales1 y 3 porque se hace referencia
                                        # respectivamente
+                                       
 
 
 
