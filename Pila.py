@@ -21,3 +21,4 @@ while len(pila) >= 3 : # Este bucle while se ejecuta siempre que la longitud de 
            # se ejecuta este bloque else. 
         print('Todos los elementos de la pila son múltiplos de 3')
         break
+    
