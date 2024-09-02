@@ -80,6 +80,7 @@ while True :
           exit()
 print('Impresión después de la función exit()') # esta sentencia no se va a imprimir por que se esta
                                                 # usando la función "exit"         
+ 
 
 
 
