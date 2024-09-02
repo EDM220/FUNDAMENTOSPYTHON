@@ -11,6 +11,7 @@ while alumnos <= 5:
     opcion = input('agregar alumno (1) o terminar (2): ')
     if opcion == '1':
         nombre = input('Ingrese el nombre del alumno: ').capitalize()
+        
         calificacion1 = int(input(f'Ingrese la primera calificación de {nombre}: '))
         calificacion2 = int(input(f'Ingrese la segunda calificación de {nombre}: '))
         alumno = [nombre, calificacion1, calificacion2]
