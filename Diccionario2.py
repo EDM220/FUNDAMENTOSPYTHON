@@ -22,3 +22,4 @@ print(tiempos) #solamente imprimirá la última insidencia de "Hamilton"
 #############################
 # Hablando de los diversos tipos de colecciones se puede hacer uso de las listas para construir
 # filas y pilas
+
