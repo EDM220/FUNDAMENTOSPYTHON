@@ -14,4 +14,5 @@ elif edad > 115 :
 elif edad < 18:
     print('Eres menor de edad, no puedes comprar cigarros')
 else:
-    print('Eres mayor de edad. Puedes comprar cigarros')        
+    print('Eres mayor de edad. Puedes comprar cigarros')    
+    
