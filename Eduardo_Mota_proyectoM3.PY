@@ -43,5 +43,6 @@ num_niveles = 12
 contenedores = maquina_galton(num_canicas, num_niveles) # Aquí es donde se llama a la función
 grafica_histograma(contenedores) # Con esta función se graficará el resultado de la simulación
                                  # con un Histograma.
-                                 
+
+                                                               
 
