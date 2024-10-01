@@ -1,3 +1,4 @@
-Se realiza el proyecto 2, el cual consiste en crear un programa para identificar la longitud de una frase. La palabra correcta debe tener entre cuatro y ocho letras, además; crear un programa que en base a 2 números de entrada, coordenadas, identifique en cuál de los 4 cuadrantes se encuentra el punto. El programa debe verificar que ninguna coordenada sea 0
-En estos programas se utilizan la sentencia if para condicionar las acciones de los programas y tener opción de selección para el usuario.
+En el proyecto 3 que consiste en realizar un programa que simule la máquina de galtón, se aplica los conceptos aprendidos en el módulo 3. La aplicación de funciones, bibliotecas para  conseguir números aleatorios "random" y "matplotlib.pyplot" para la creación de graficos son también utilizados en este proyecto3.
+Considero que he aprendido un poco más sobre los conceptos de python y creo que hay mucho más por aprender en las siguientes semanas de este Ucamp. Espero seguir avanzando para poder realizar programas con una menor dificultad.
+
 Saludos!
